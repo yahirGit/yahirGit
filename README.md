@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center" style="border-bottom: 2px solid #c6c6c6;">
+<h1 align="center" style="border-bottom: 1px solid #2cc189;">
   <b>Hi , I'm Yahir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NnajIxbzB0NzJ6ZGQwODZxa291NGExNHJ2Ymk0a3NkdGQxYnQ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.gif" width="45">
   <b>Hola , Soy yahir <b>
 </h1>
-
-border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));
