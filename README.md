@@ -18,9 +18,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NnajIxbzB0NzJ6ZGQwODZxa291NGExNHJ2Ymk0a3NkdGQxYnQ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.gif" width="45" margin="10">
   <b style="float: left;">Hi , I'm Yahir </b>
   <br>
-  <b>Hola , Soy yahir <b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b style="position: absolute; bottom: 0px; right: 0;">Hola , Soy yahir </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 
+  
+  
   
   
